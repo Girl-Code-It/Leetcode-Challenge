@@ -14,9 +14,6 @@ Happy Submissions :slightly_smiling_face:
 # clone the repository to your local machine
 $ git clone https://github.com/<YOUR-GITHUB-USERNAME>/Leetcode-Challenge.git
 
-# navigate to the project's directory and install all the relevant dev-dependencies
-$ cd Beginner-CPP-Submissions
-
 # include all the latest changes from the remote repository
 $ git remote add upstream https://github.com/Girl-Code-It/Leetcode-Challenge
 $ git fetch upstream
