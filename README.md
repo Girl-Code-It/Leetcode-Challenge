@@ -19,4 +19,6 @@ All the participants discuss their solution approaches everyday at the end of th
 - If you were not able to solve the question, the other participants will help you solve it.
 - Most importantly, particpating with a whole group keeps you consistent and motivated for solving questions each day.
 
+
 If you want to participate refer the Particiapting guidelines in [Participating.md](https://github.com/Girl-Code-It/Leetcode-Challenge/blob/master/Partciapting.md)
+Drop an email to `girlcodeit@gmail.com` to be added in the discussion channel for Leetcode Challenge. 
