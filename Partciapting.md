@@ -1,6 +1,6 @@
-"# Beginner-CPP-Submissions"
+# Beginner-CPP-Submissions
 
-# Contribution is fun! :green_heart:
+## Contribution is fun! :green_heart:
 
 In order to make a hassle-free environment, I implore you all (_while contributing_) to follow the instructions mentioned below!
 
